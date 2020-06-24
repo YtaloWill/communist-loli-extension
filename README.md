@@ -4,15 +4,10 @@ Enquanto estava navegando em sites pela internet afora, já sentiu a necessidade
 
 E tudo isso DE GRAÇA!! Isso mesmo, você não terá que pagar nada por isso.
 
+[Baixe aqui](https://addons.mozilla.org/en-US/firefox/addon/communist-loli/)
+
 Baixe esta extensão e você terá este lindo cursor:
 
 ![communist loli](icons/communist-loli.jpg)
 
-## How to use
 
-1. Baixe os arquivos dessa página
-2. Abra o firefox
-3. Pressione Crtl+Shift+A
-4. Clique na engrenagem
-5. Clique em "Instalar add-ons de arquivos"
-6. Procure a pasta onde baixou este repositório e selecione o arquivo manifest.json
