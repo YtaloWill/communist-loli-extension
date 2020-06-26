@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Communist Loli",
-    "version": "1.0",
+    "version": "1.1",
     "description": "Modify the cursor in all pages to COMMUNIST LOLI",
     "icons": {
         "32": "icons/communist_loli-32.jpg"
@@ -9,7 +9,7 @@
     "content_scripts": [
       {
         "matches": ["*://*/*"],
-        "js": ["cursorModifier.js"]
+        "css": ["cursorModifier.css"]
       }
     ]
   }
